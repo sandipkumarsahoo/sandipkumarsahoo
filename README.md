@@ -1,4 +1,4 @@
-![log](https://github.com/sandipkumarsahoo/sandipkumarsahoo/assets/136425710/74916ba5-d0f9-4166-9827-189abf073bcb)
+![log](https://github.com/sandipkumarsahoo/sandipkumarsahoo/assets/136425710/24692c81-4880-4052-b1b6-18debad9ae70)
 <h1 align="center">Hi 👋, I'm sandip kumar sahoo</h1>
 <h3 align="center">A passionate Software,Data science Engineer And frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
