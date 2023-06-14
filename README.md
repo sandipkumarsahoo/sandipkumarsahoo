@@ -1,10 +1,10 @@
 ![log](https://github.com/sandipkumarsahoo/sandipkumarsahoo/assets/136425710/74916ba5-d0f9-4166-9827-189abf073bcb)
 <h1 align="center">Hi 👋, I'm sandip kumar sahoo</h1>
-<h3 align="center">A passionaA passionate Software Engineer, Data science Engineer from Indiate frontend developer from India</h3>
+<h3 align="center">A passionate Software,Data science Engineer And frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipkumarsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="sandipkumarsahoo" /> </p>
-
+%
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sandeep-sahoo-812730235](https://www.linkedin.com/in/sandeep-sahoo-812730235)
 
 - 📫 How to reach me *sahoosandipkumar17@gmail.com*
